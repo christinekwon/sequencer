@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sequencer/static/css/main.6c2e9721.chunk.css",
+    "main.js": "/sequencer/static/js/main.2f980c0a.chunk.js",
+    "main.js.map": "/sequencer/static/js/main.2f980c0a.chunk.js.map",
+    "runtime-main.js": "/sequencer/static/js/runtime-main.2579dca4.js",
+    "runtime-main.js.map": "/sequencer/static/js/runtime-main.2579dca4.js.map",
+    "static/js/2.8e66d5b3.chunk.js": "/sequencer/static/js/2.8e66d5b3.chunk.js",
+    "static/js/2.8e66d5b3.chunk.js.map": "/sequencer/static/js/2.8e66d5b3.chunk.js.map",
+    "index.html": "/sequencer/index.html",
+    "static/css/main.6c2e9721.chunk.css.map": "/sequencer/static/css/main.6c2e9721.chunk.css.map",
+    "static/js/2.8e66d5b3.chunk.js.LICENSE.txt": "/sequencer/static/js/2.8e66d5b3.chunk.js.LICENSE.txt",
+    "static/media/Sequencer.scss": "/sequencer/static/media/item-9.aa480e82.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2579dca4.js",
+    "static/js/2.8e66d5b3.chunk.js",
+    "static/css/main.6c2e9721.chunk.css",
+    "static/js/main.2f980c0a.chunk.js"
+  ]
+}
